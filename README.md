@@ -108,7 +108,7 @@
 
 - [x] :white_check_mark: 爾雅
 - [ ] 爾雅注疏
-- [ ] 方言
+- [x] :white_check_mark: 方言
 - [ ] 釋名
 - [x] :white_check_mark: 原本玉篇殘卷
 - [x] :white_check_mark: 說文解字
