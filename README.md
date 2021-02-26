@@ -89,6 +89,7 @@
 - [x] :white_check_mark: 明史
 - [x] :white_check_mark: 清史稿
 - [ ] 資治通鑑 
+- [x] :white_check_mark: 列女傳
 
 ### 醫學
 
