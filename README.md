@@ -82,12 +82,12 @@
 - [x] :white_check_mark: 新唐書
 - [x] :white_check_mark: 舊五代史
 - [x] :white_check_mark: 新五代史
-- [ ] 宋史
-- [ ] 遼史
-- [ ] 金史
+- [x] :white_check_mark: 宋史
+- [x] :white_check_mark: 遼史
+- [x] :white_check_mark: 金史
 - [x] :white_check_mark: 元史
-- [ ] 明史
-- [ ] 清史稿
+- [x] :white_check_mark: 明史
+- [x] :white_check_mark: 清史稿
 - [ ] 資治通鑑 
 
 ### 醫學
