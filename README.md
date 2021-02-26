@@ -16,7 +16,7 @@
 - [x] :white_check_mark: 周易
 - [x] :white_check_mark: 說苑
 - [x] :white_check_mark: 春秋繁露
-- [ ] 揚子法言
+- [x] :white_check_mark: 揚子法言
 - [ ] 論衡
 - [ ] 四書章句集注
 
