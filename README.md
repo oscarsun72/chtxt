@@ -201,6 +201,7 @@
 - [ ] 繁體轉簡體
 - [ ] TXT轉HTML
 - [x] :white_check_mark: TXT轉PDF
+- [x] :white_check_mark: TXT生成詞雲（結巴分詞+wordcloud） 
 - [ ] 常見俗字、異體字替換
 
 ### 備註
