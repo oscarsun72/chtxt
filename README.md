@@ -23,7 +23,7 @@
 ### 道家
 
 - [x] :white_check_mark: 道德經
-- [ ] 莊子 
+- [x] :white_check_mark: 莊子 
 - [x] :white_check_mark: 列子
 - [ ] 鶡冠子
 
@@ -199,7 +199,8 @@
 
 - [ ] 簡體轉繁體
 - [ ] 繁體轉簡體
-- [ ] TXT轉HTML，創建對應的瀏覽站點 
+- [ ] TXT轉HTML
+- [x] :white_check_mark: TXT轉PDF
 - [ ] 常見俗字、異體字替換
 
 ### 備註
