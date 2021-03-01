@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # PDF generator for https://github.com/bgc2017/chtxt 
 
+
 import re
 import sys
 from os.path import basename
@@ -21,8 +22,9 @@ styles = getSampleStyleSheet()
 # styles for book / author / chapter / subsection / content /footer | up/right/down/left 
 styles.add(ParagraphStyle(fontName='Kaiti', name='book', textColor="#FF0000",borderPadding=(100, 100, 100,20), leading=25, fontSize=36, wordWrap='CJK',alignment=1 ))
 styles.add(ParagraphStyle(fontName='Kaiti', name='author', textColor="#9966FF",borderPadding=(110, 0, 20,120), leading=25, fontSize=12, wordWrap='CJK',alignment=2))
-styles.add(ParagraphStyle(fontName='Kaiti', name='chapter', textColor="red",borderPadding=24, leading=25, fontSize=20, wordWrap='CJK',alignment=1))
-styles.add(ParagraphStyle(fontName='Kaiti', name='subsection', leading=25,borderPadding=(20,0,20,0), fontSize=20,  textColor="#FF5600", wordWrap='CJK'))
+styles.add(ParagraphStyle(fontName='Kaiti', name='chapter', textColor="red",borderPadding=24, leading=25, fontSize=28, wordWrap='CJK',alignment=1))
+styles.add(ParagraphStyle(fontName='Kaiti', name='subsection', leading=25,borderPadding=(20,0,20,0), fontSize=18,  textColor="#FF5600", wordWrap='CJK'))
+styles.add(ParagraphStyle(fontName='Kaiti', name='subsection2', leading=25,borderPadding=(20,0,20,0), fontSize=18,  textColor="#FF5600", wordWrap='CJK'))
 styles.add(ParagraphStyle(fontName='Kaiti', name='content', leading=25, fontSize=16, borderPadding=(10,0,0,0), textColor="black", wordWrap='CJK'))
 styles.add(ParagraphStyle(fontName='Kaiti', name='xu', leading=25,borderPadding=(20,0,20,0), fontSize=14,  textColor="#9200D0", wordWrap='CJK'))
 styles.add(ParagraphStyle(fontName='Kaiti', name='footer', leading=20, fontSize=10, LineIndent=0,alignment=0, wordWrap='CJK'))
@@ -86,17 +88,19 @@ def toPDF(txt_datas, pdf_path):
 
     data = []
 
-    NUM = 0
-    # add txt
+    doHeading(data, "閱讀須知", styles['chapter'])
+    data.append(Spacer(20,20))
+
     for txt_data in txt_datas:
         txt_data = txt_data.lstrip() # remove left space
         if len(txt_data) == 0: # no text
            data.append(Spacer(10,10))
-           NUM = NUM + 1
            continue 
 
-        if txt_data[0] == "○":
+        if txt_data[0] == "○": 
             doHeading(data, txt_data, styles['subsection'])
+        elif txt_data[0] == "△":
+            doHeading(data, txt_data, styles['subsection2'])
         elif  ("更新日期" in txt_data): 
             data.append(Paragraph(txt_data, styles['content']))
             data.append(PageBreak())
@@ -114,22 +118,15 @@ def toPDF(txt_datas, pdf_path):
         elif  (re.match('^## ',txt_data)):
             data.append(PageBreak())
             doHeading(data, txt_data.replace('#', '').replace(' ', ''), styles['chapter'])
-        elif  (re.match('^(序:|【按語】)',txt_data)):
+            data.append(Spacer(20,20))
+        elif  (re.match('^(序:|【按語】|詞牌)',txt_data)):
             data.append(Paragraph(txt_data, styles['xu']))
         else:
             data.append(Paragraph(txt_data, styles['content']))
-        NUM = NUM + 1
-        #print('{} line'.format(NUM))
 
-    data.append(PageBreak())
-    doHeading(data, "獲取最新版本", styles['chapter'])
-    data.append(Spacer(20,20))
-    data.append(Paragraph('下載最新版本，請訪問: https://github.com/bgc2017/chtxt',styles['content']))
-    data.append(Spacer(10,10))
-    data.append(Paragraph('如果您發現錯字、脫字、衍字，請反饋至: https://github.com/bgc2017/chtxt/issues',styles['content']))
 
     PDF.multiBuild(data)
-    print(pdf_file)
+    print("\n" + pdf_file)
     print('Done!')
 
 if __name__ == "__main__":
@@ -137,6 +134,6 @@ if __name__ == "__main__":
     bridge_book=["宋詞三百首.txt","弟子規.txt","急就章.txt","聲律啟蒙.txt","笠翁對韻.txt","道德經.txt","三十六計.txt"]
     if basename(txt_file) in bridge_book:
         bridge=True
-    pdf_file=txt_file.replace("txt","pdf")
+    pdf_file=txt_file.replace(".txt","") + ".pdf"
     txt_datas = loadTxt(txt_file)
     toPDF(txt_datas, pdf_file)
