@@ -4,27 +4,27 @@
 
 ### 儒家
 
-- [x] :white_check_mark: 論語
-- [x] :white_check_mark: 孟子
+- [x] :white_check_mark: 論語 :100:
+- [x] :white_check_mark: 孟子 :100:
 - [x] :white_check_mark: 大學
 - [x] :white_check_mark: 中庸
-- [x] :white_check_mark: 荀子
+- [x] :white_check_mark: 荀子 :100:
 - [x] :white_check_mark: 孔子家語
-- [x] :white_check_mark: 詩經
+- [x] :white_check_mark: 詩經 :100:
 - [ ] 尚書
 - [ ] 禮記
 - [x] :white_check_mark: 周易
 - [x] :white_check_mark: 說苑
 - [x] :white_check_mark: 春秋繁露
-- [x] :white_check_mark: 揚子法言
+- [x] :white_check_mark: 揚子法言 :100:
 - [ ] 論衡
 - [ ] 四書章句集注
 
 ### 道家
 
-- [x] :white_check_mark: 道德經
-- [x] :white_check_mark: 莊子 
-- [x] :white_check_mark: 列子
+- [x] :white_check_mark: 道德經 :100:
+- [x] :white_check_mark: 莊子 :100:
+- [x] :white_check_mark: 列子 :100:
 - [ ] 鶡冠子
 
 ### 法家
@@ -128,35 +128,36 @@
 
 ### 蒙學
 
-- [x] :white_check_mark: 三字經
-- [x] :white_check_mark: 百家姓
-- [x] :white_check_mark: 千字文
-- [x] :white_check_mark: 千家詩
-- [x] :white_check_mark: 弟子規
-- [x] :white_check_mark: 幼學瓊林
-- [x] :white_check_mark: 李氏蒙求 
-- [x] :white_check_mark: 聲律啟蒙
-- [x] :white_check_mark: 笠翁對韻
-- [x] :white_check_mark: 增廣賢文
-- [x] :white_check_mark: 龍文鞭影
-- [x] :white_check_mark: 朱子家訓
-- [x] :white_check_mark: 五字鑒
-- [x] :white_check_mark: 唐詩三百首
-- [x] :white_check_mark: 宋詞三百首
-- [x] :white_check_mark: 急就章
+- [x] :white_check_mark: 三字經 :100:
+- [x] :white_check_mark: 百家姓 :100:
+- [x] :white_check_mark: 千字文 :100:
+- [x] :white_check_mark: 千家詩 :100:
+- [x] :white_check_mark: 弟子規 :100:
+- [x] :white_check_mark: 幼學瓊林 :100:
+- [x] :white_check_mark: 李氏蒙求 :100:
+- [x] :white_check_mark: 聲律啟蒙 :100:
+- [x] :white_check_mark: 笠翁對韻 :100:
+- [x] :white_check_mark: 增廣賢文 :100:
+- [x] :white_check_mark: 龍文鞭影 :100:
+- [x] :white_check_mark: 朱子家訓 :100:
+- [x] :white_check_mark: 五字鑒 :100:
+- [x] :white_check_mark: 唐詩三百首 :100:
+- [x] :white_check_mark: 宋詞三百首 :100:
+- [x] :white_check_mark: 急就章 :100:
 
 ### 詩詞
 
-- [x] :white_check_mark: 詩經
+- [x] :white_check_mark: 詩經 :100:
 - [ ] 楚辭
-- [ ] 歷代詩詞集合_先秦兩漢篇
-- [ ] 歷代詩詞集合_魏晉篇
-- [ ] 歷代詩詞集合_南北朝篇
-- [ ] 歷代詩詞集合_隋唐篇
-- [ ] 歷代詩詞集合_宋代篇
-- [ ] 歷代詩詞集合_元代篇
-- [ ] 歷代詩詞集合_明代篇
-- [ ] 歷代詩詞集合_清代篇
+- [x] :white_check_mark: 全唐宋詞
+- [x] :white_check_mark: 歷代詩詞大全_先秦兩漢篇
+- [ ] 歷代詩詞大全_魏晉篇
+- [ ] 歷代詩詞大全_南北朝篇
+- [ ] 歷代詩詞大全_隋唐篇
+- [ ] 歷代詩詞大全_宋代篇
+- [ ] 歷代詩詞大全_元代篇
+- [ ] 歷代詩詞大全_明代篇
+- [ ] 歷代詩詞大全_清代篇
 
 ### 小說
 
@@ -200,8 +201,8 @@
 - [ ] 簡體轉繁體
 - [ ] 繁體轉簡體
 - [ ] TXT轉HTML
-- [x] :white_check_mark: TXT轉PDF
-- [x] :white_check_mark: TXT生成詞雲（結巴分詞+wordcloud） 
+- [x] :white_check_mark: TXT轉PDF :100:
+- [x] :white_check_mark: TXT生成詞雲（結巴分詞+wordcloud）:100:
 - [ ] 常見俗字、異體字替換
 
 ### 備註
