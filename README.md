@@ -28,7 +28,7 @@
 - [x] :white_check_mark: 道德經 :100:
 - [x] :white_check_mark: 莊子 :100:
 - [x] :white_check_mark: 列子 :100:
-- [ ] 鶡冠子
+- [x] :white_check_mark: 鶡冠子
 
 ### 法家
 
