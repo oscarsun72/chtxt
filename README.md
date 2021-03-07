@@ -2,6 +2,20 @@
 
 如果您發現了錯字、脫字、衍字等，請反饋到Issues。歡迎更多朋友來一起完善或者校對當前文本。
 
+### 詩詞
+
+- [x] :white_check_mark: 詩經 :100:
+- [ ] 楚辭
+- [x] :white_check_mark: 先秦詩
+- [x] :white_check_mark: 漢代詩
+- [ ] 魏晉南北朝詩 
+- [x] :white_check_mark: 全唐詩 
+- [x] :white_check_mark: 全唐宋詞 
+- [ ] 全宋詩 
+- [ ] 金元詩 
+- [ ] 全明詩 
+- [ ] 全清詩 
+
 ### 儒家
 
 - [x] :white_check_mark: 論語 :100:
@@ -17,7 +31,9 @@
 - [x] :white_check_mark: 說苑
 - [x] :white_check_mark: 春秋繁露
 - [x] :white_check_mark: 揚子法言 :100:
+- [x] :white_check_mark: 孝經 
 - [ ] 論衡
+- [x] :white_check_mark: 韓詩外傳
 - [ ] 四書章句集注·論語
 - [ ] 四書章句集注·孟子
 - [ ] 四書章句集注·大學
@@ -29,6 +45,7 @@
 - [x] :white_check_mark: 莊子 :100:
 - [x] :white_check_mark: 列子 :100:
 - [x] :white_check_mark: 鶡冠子
+- [x] :white_check_mark: 文子 
 
 ### 法家
 
@@ -144,20 +161,6 @@
 - [x] :white_check_mark: 唐詩三百首 :100:
 - [x] :white_check_mark: 宋詞三百首 :100:
 - [x] :white_check_mark: 急就章 :100:
-
-### 詩詞
-
-- [x] :white_check_mark: 詩經 :100:
-- [ ] 楚辭
-- [x] :white_check_mark: 先秦詩歌
-- [x] :white_check_mark: 漢代詩歌 
-- [ ] 魏晉南北朝詩 
-- [x] :white_check_mark: 全唐詩 
-- [x] :white_check_mark: 全唐宋詞 
-- [ ] 全宋詩 
-- [ ] 金元詩 
-- [ ] 全明詩 
-- [ ] 全清詩 
 
 ### 小說
 
