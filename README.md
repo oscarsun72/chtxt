@@ -58,7 +58,7 @@
 
 - [ ] 六韜
 - [ ] 司馬法
-- [ ] 孫子兵法
+- [x] :white_check_mark: 孫子兵法
 - [ ] 吳子
 - [ ] 尉繚子
 - [ ] 黃石公三略
@@ -200,6 +200,7 @@
 - [x] :white_check_mark: 笑府
 - [x] :white_check_mark: 笑林廣記
 - [ ] 香豔叢書 
+- [x] :white_check_mark: 浮生六記
 
 ### 工具腳本
 
