@@ -3,6 +3,18 @@ FILE="$1"
 if [ ! -f "$FILE" ]; then echo "File not found: $FILE" ; exit 1 ; fi
 
 sed -i.bak  -e "
+s/穏/穩/g;
+s/収/收/g;
+s/潄/漱/g;
+s/爼/俎/g;
+s/莾/莽/g;
+s/攅/攢/g;
+s/甞/嘗/g;
+s/槖/橐/g;
+s/尫/尪/g;
+s/闗/關/g;
+s/荘/莊/g;
+s/卽/即/g;
 s/衞/衛/g;
 s/媿/愧/g;
 s/㑹/會/g;

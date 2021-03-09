@@ -210,6 +210,7 @@
 - [x] :white_check_mark: TXT轉PDF :100:
 - [x] :white_check_mark: TXT生成詞雲（結巴分詞+wordcloud）:100:
 - [x] :white_check_mark: 常見俗字、異體字替換
+- [x] :white_check_mark: 《四庫全書》全文逐句校對
 
 ### 備註
 
