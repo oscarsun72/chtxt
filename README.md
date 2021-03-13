@@ -5,7 +5,7 @@
 ### 詩詞
 
 - [x] :white_check_mark: 詩經 :100:
-- [ ] 楚辭
+- [x] :white_check_mark: 楚辭 :100:
 - [x] :white_check_mark: 先秦詩
 - [x] :white_check_mark: 漢代詩
 - [ ] 魏晉南北朝詩 
@@ -13,8 +13,8 @@
 - [x] :white_check_mark: 全唐宋詞 
 - [x] :white_check_mark: 全宋詩 
 - [x] :white_check_mark: 金元詩 
-- [ ] 全明詩 
-- [ ] 全清詩 
+- [ ] 明詩 
+- [ ] 清詩 
 - [x] :white_check_mark: 人間詞話 
 
 ### 儒家
