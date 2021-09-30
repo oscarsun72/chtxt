@@ -6,13 +6,13 @@
 
 - [x] :white_check_mark: 詩經 :100:
 - [x] :white_check_mark: 楚辭 :100:
-- [x] :white_check_mark: 先秦詩
-- [x] :white_check_mark: 漢代詩
+- [x] :white_check_mark: 先秦詩 :100:
+- [x] :white_check_mark: 漢代詩 :100:
 - [ ] 魏晉南北朝詩 
-- [x] :white_check_mark: 全唐詩 
+- [x] :white_check_mark: 全唐詩 :100:
 - [x] :white_check_mark: 敦煌歌辭 
 - [x] :white_check_mark: 全唐宋詞 
-- [x] :white_check_mark: 全宋詩 
+- [x] :white_check_mark: 全宋詩 :100:
 - [ ] :white_check_mark: 金元詩 
 - [ ] 明詩 
 - [ ] 清詩 
@@ -22,8 +22,8 @@
 
 - [x] :white_check_mark: 論語 :100:
 - [x] :white_check_mark: 孟子 :100:
-- [x] :white_check_mark: 大學
-- [x] :white_check_mark: 中庸
+- [x] :white_check_mark: 大學 :100:
+- [x] :white_check_mark: 中庸 :100:
 - [x] :white_check_mark: 荀子 :100:
 - [x] :white_check_mark: 孔子家語
 - [x] :white_check_mark: 詩經 :100:
