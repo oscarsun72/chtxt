@@ -10,9 +10,10 @@
 - [x] :white_check_mark: 漢代詩
 - [ ] 魏晉南北朝詩 
 - [x] :white_check_mark: 全唐詩 
+- [x] :white_check_mark: 敦煌歌辭 
 - [x] :white_check_mark: 全唐宋詞 
 - [x] :white_check_mark: 全宋詩 
-- [x] :white_check_mark: 金元詩 
+- [ ] :white_check_mark: 金元詩 
 - [ ] 明詩 
 - [ ] 清詩 
 - [x] :white_check_mark: 人間詞話 
