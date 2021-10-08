@@ -187,11 +187,12 @@
 - [ ] 神仙傳
 - [x] :white_check_mark: 搜神記 
 
-### 類書
+### 類書叢書
 
 - [x] :white_check_mark: 藝文類聚
 - [ ] 永樂大典殘卷 
 - [ ] 古今圖書集成 
+- [x] :white_check_mark: 香豔叢書
 
 ### 其他
 
