@@ -182,8 +182,8 @@
 - [ ] 儒林外史 
 - [ ] 封神演義 
 - [ ] 東周列國志
-- [x] 官場現形記 
-- [x] 老殘遊記
+- [x] :white_check_mark: 官場現形記 
+- [x] :white_check_mark: 老殘遊記
 - [ ] 神仙傳
 - [x] :white_check_mark: 搜神記 
 
