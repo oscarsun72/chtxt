@@ -192,7 +192,6 @@
 - [x] :white_check_mark: 藝文類聚
 - [ ] 永樂大典殘卷 
 - [ ] 古今圖書集成 
-- [x] :white_check_mark: 香豔叢書
 
 ### 其他
 
