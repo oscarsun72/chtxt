@@ -14,8 +14,10 @@
 - [x] :white_check_mark: 全唐宋詞 
 - [x] :white_check_mark: 全宋詩 :100:
 - [ ] :white_check_mark: 金元詩 
-- [ ] 明詩 
-- [ ] 清詩 
+- [ ] 全金元詞 
+- [ ] 全明詩 
+- [ ] 全明詞
+- [ ] 全清詩 
 - [x] :white_check_mark: 人間詞話 
 
 ### 儒家
@@ -115,7 +117,7 @@
 - [ ] 難經
 - [ ] 傷寒論
 - [ ] 金匱要略
-- [x] :white_check_mark: 本草綱目
+- []  本草綱目
 
 ### 佛教
 
@@ -135,7 +137,7 @@
 - [x] :white_check_mark: 九經字樣 
 - [x] :white_check_mark: 干祿字書 
 - [x] :white_check_mark: 一切經音義
-- [ ] 龍龕手鏡 
+- [ ] 龍龕手鑑
 - [x] :white_check_mark: 大廣益會玉篇
 - [ ] 廣韻
 - [ ] 類篇
