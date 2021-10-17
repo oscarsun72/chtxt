@@ -213,6 +213,7 @@
 - [ ] 簡體轉繁體
 - [ ] 繁體轉簡體
 - [ ] TXT轉HTML
+- [x] :white_check_mark: 電子書轉換 
 - [x] :white_check_mark: TXT轉PDF :100:
 - [x] :white_check_mark: TXT生成詞雲（結巴分詞+wordcloud）:100:
 - [x] :white_check_mark: 常見俗字、異體字替換
