@@ -1,4 +1,3 @@
-#中華經典古籍精校
 #下載最新版本，請訪問: https://github.com/bgc2017/chtxt
 #如果您發現錯字、脫字、衍字，請反饋至: https://github.com/bgc2017/chtxt/issues
 #創建日期: 2021/10/08
